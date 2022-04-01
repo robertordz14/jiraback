@@ -1,0 +1,390 @@
+[2022-03-30T19:51:54.122Z warn Inició sesión el usuario: Roberto con el correo roberto@gmail.com] 
+[2022-03-30T19:53:57.499Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T19:53:59.279Z warn Se consultaron todos los proyectos vigentes] 
+[2022-03-30T19:54:08.642Z warn Se consultaron todos los proyectos vigentes] 
+[2022-03-30T19:54:34.487Z warn Se consultaron todos los proyectos vigentes] 
+[2022-03-30T19:56:01.759Z warn Se consultaron todos los proyectos vigentes] 
+[2022-03-30T19:56:22.004Z warn Se consultaron todos los proyectos vigentes] 
+[2022-03-30T19:57:27.891Z info Se creo el proyeco con nombre: Pruebas de sistema] 
+[2022-03-30T19:57:32.649Z warn Se consultaron todos los proyectos vigentes] 
+[2022-03-30T19:57:45.240Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T19:58:00.495Z warn Inició sesión el usuario: Juan Daniel con el correo juan@gmail.com] 
+[2022-03-30T19:58:42.996Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T19:58:45.897Z warn Se consultaron todos los proyectos vigentes] 
+[2022-03-30T19:58:51.036Z warn Inició sesión el usuario: Juan Daniel con el correo juan@gmail.com] 
+[2022-03-30T19:58:54.423Z warn Se consultaron todos los proyectos vigentes] 
+[2022-03-30T20:00:12.836Z warn Inició sesión el usuario: Roberto con el correo roberto@gmail.com] 
+[2022-03-30T20:00:21.452Z warn Se consultaron todos los proyectos vigentes] 
+[2022-03-30T20:00:26.925Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T20:00:38.794Z warn Se consultaron todos los proyectos vigentes] 
+[2022-03-30T20:01:23.962Z warn Inició sesión el usuario: Juan Daniel con el correo juan@gmail.com] 
+[2022-03-30T20:01:30.310Z warn Se consultaron todos los proyectos vigentes] 
+[2022-03-30T20:01:34.073Z warn Se consultaron todos los proyectos vigentes] 
+[2022-03-30T20:01:42.880Z warn Inició sesión el usuario: Juan Daniel con el correo juan@gmail.com] 
+[2022-03-30T20:02:07.882Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T20:02:20.988Z warn Se consultaron todos los proyectos vigentes] 
+[2022-03-30T20:05:08.922Z warn Inició sesión el usuario: Juan Daniel con el correo juan@gmail.com] 
+[2022-03-30T20:05:13.519Z warn Se consultaron todos los proyectos vigentes] 
+[2022-03-30T20:17:01.046Z warn Se consultaron todos los proyectos vigentes] 
+[2022-03-30T20:17:08.084Z warn Se consultaron todos los proyectos vigentes] 
+[2022-03-30T20:20:47.753Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T20:21:10.022Z warn Inició sesión el usuario: Roberto con el correo roberto@gmail.com] 
+[2022-03-30T20:21:14.947Z warn Se consultaron todos los proyectos vigentes] 
+[2022-03-30T20:21:20.514Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T20:25:47.157Z info Se creo el proyeco con nombre: Prueba] 
+[2022-03-30T20:26:07.343Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T20:27:32.529Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T20:27:37.835Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T20:27:49.947Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T20:31:14.372Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T20:31:16.048Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T22:52:43.662Z warn Inició sesión el usuario: Roberto con el correo roberto@gmail.com] 
+[2022-03-30T22:52:46.982Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T22:59:09.238Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T22:59:25.835Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T23:00:23.695Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T23:08:01.510Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T23:10:02.013Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T23:10:06.959Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T23:10:29.490Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T23:10:32.877Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T23:13:06.197Z warn Inició sesión el usuario: Roberto con el correo roberto@gmail.com] 
+[2022-03-30T23:13:10.765Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T23:14:00.945Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T23:14:02.118Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T23:14:05.659Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T23:16:50.814Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T23:16:52.187Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T23:21:00.294Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T23:23:22.449Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T23:23:23.012Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T23:23:31.638Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T23:24:05.618Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T23:26:45.023Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T23:26:47.978Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T23:27:39.286Z warn Se consultaron todos los proyectos personales] 
+[2022-03-30T23:28:58.341Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T00:13:16.195Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T00:14:25.890Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T00:14:25.892Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T00:14:31.498Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T00:14:31.501Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T00:15:47.332Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T00:15:47.335Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T00:16:51.390Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T00:18:44.489Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T00:19:17.391Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T00:19:36.302Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T00:19:36.304Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T00:20:18.491Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T00:20:18.494Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T00:30:43.814Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T00:30:43.822Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T00:31:20.906Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T00:31:20.909Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T00:31:43.010Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T00:31:43.013Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T00:32:10.100Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T00:32:10.103Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T00:32:16.125Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T00:32:16.127Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T00:34:41.185Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T00:34:41.191Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T00:34:50.524Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T00:34:50.528Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T00:44:42.351Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T00:44:42.354Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T00:49:04.042Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T00:49:04.046Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T00:49:18.809Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T00:49:18.811Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T00:50:56.999Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T00:50:57.004Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T00:52:10.552Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T00:52:10.557Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T00:52:58.888Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T00:52:58.893Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T01:09:21.875Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T01:09:21.879Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T01:09:51.136Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T01:09:51.144Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T01:10:04.218Z warn 
+            SE ACTUALIZO EL PROYECTO CON EL ID: 1              
+              Datos Nuevos:
+                Nombre: undefined,
+                Descripcion: 
+            ] 
+[2022-03-31T01:10:05.077Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T01:10:05.079Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T01:10:31.458Z warn 
+            SE ACTUALIZO EL PROYECTO CON EL ID: 1              
+              Datos Nuevos:
+                Nombre: Prueba,
+                Descripcion: Prueba
+            ] 
+[2022-03-31T04:00:06.567Z warn Inició sesión el usuario: Roberto con el correo roberto@gmail.com] 
+[2022-03-31T04:01:04.484Z warn Inició sesión el usuario: Roberto con el correo roberto@gmail.com] 
+[2022-03-31T04:01:21.661Z warn Inició sesión el usuario: Juan Daniel con el correo juan@gmail.com] 
+[2022-03-31T04:02:36.477Z warn Inició sesión el usuario: Roberto con el correo roberto@gmail.com] 
+[2022-03-31T04:02:46.187Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T04:02:46.190Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T04:02:52.323Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T04:03:42.669Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T04:03:46.320Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T04:03:46.322Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T04:04:11.101Z warn 
+            SE ACTUALIZO EL PROYECTO CON EL ID: 1              
+              Datos Nuevos:
+                Nombre: undefined,
+                Descripcion: Prueba 2
+            ] 
+[2022-03-31T04:04:11.843Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T04:04:11.845Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T04:05:31.844Z warn 
+            SE ACTUALIZO EL PROYECTO CON EL ID: 1              
+              Datos Nuevos:
+                Nombre: Prueba 2,
+                Descripcion: Prueba2
+            ] 
+[2022-03-31T04:05:59.255Z warn 
+            SE ACTUALIZO EL PROYECTO CON EL ID: 1              
+              Datos Nuevos:
+                Nombre: Prueba 2,
+                Descripcion: Prueba2
+            ] 
+[2022-03-31T04:06:20.174Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T04:06:20.176Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T04:06:33.380Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T04:06:33.382Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T04:06:45.675Z warn 
+            SE ACTUALIZO EL PROYECTO CON EL ID: 1              
+              Datos Nuevos:
+                Nombre: undefined,
+                Descripcion: Prueba 3
+            ] 
+[2022-03-31T04:06:46.906Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T04:06:46.909Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T04:10:31.669Z warn 
+            SE ACTUALIZO EL PROYECTO CON EL ID: 1              
+              Datos Nuevos:
+                Nombre: Prueba 2,
+                Descripcion: Prueba2
+            ] 
+[2022-03-31T04:11:47.720Z warn 
+            SE ACTUALIZO EL PROYECTO CON EL ID: 1              
+              Datos Nuevos:
+                Nombre: Prueba 2,
+                Descripcion: Prueba2
+            ] 
+[2022-03-31T04:15:29.751Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T04:15:29.759Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T04:16:22.908Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T04:16:22.909Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T04:16:40.031Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T04:16:40.035Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T04:16:57.786Z warn 
+            SE ACTUALIZO EL PROYECTO CON EL ID: 1              
+              Datos Nuevos:
+                Nombre: undefined,
+                Descripcion: Prueba 3
+            ] 
+[2022-03-31T04:16:58.846Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T04:16:58.851Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T04:17:11.880Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T04:17:11.882Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T04:17:24.864Z warn 
+            SE ACTUALIZO EL PROYECTO CON EL ID: 1              
+              Datos Nuevos:
+                Nombre: Prueba 2,
+                Descripcion: Prueba2
+            ] 
+[2022-03-31T04:20:29.298Z warn 
+            SE ACTUALIZO EL PROYECTO CON EL ID: 1              
+              Datos Nuevos:
+                Nombre: Prueba 2,
+                Descripcion: Prueba2
+            ] 
+[2022-03-31T04:22:53.058Z warn 
+            SE ACTUALIZO EL PROYECTO CON EL ID: 1              
+              Datos Nuevos:
+                Nombre: Prueba 2,
+                Descripcion: Prueba2
+            ] 
+[2022-03-31T04:23:00.832Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T04:23:00.836Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T04:33:26.218Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T04:33:26.221Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T04:33:38.015Z warn 
+            SE ACTUALIZO EL PROYECTO CON EL ID: 1              
+              Datos Nuevos:
+                Nombre: undefined,
+                Descripcion: 
+            ] 
+[2022-03-31T04:35:22.293Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T04:35:22.296Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T04:35:32.393Z warn 
+            SE ACTUALIZO EL PROYECTO CON EL ID: 1              
+              Datos Nuevos:
+                Nombre: Prueba 2,
+                Descripcion: Prueba2
+            ] 
+[2022-03-31T04:35:47.718Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T04:35:47.729Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T04:35:59.189Z warn 
+            SE ACTUALIZO EL PROYECTO CON EL ID: 1              
+              Datos Nuevos:
+                Nombre: undefined,
+                Descripcion: 
+            ] 
+[2022-03-31T04:36:17.424Z warn 
+            SE ACTUALIZO EL PROYECTO CON EL ID: 1              
+              Datos Nuevos:
+                Nombre: Prueba 2,
+                Descripcion: Prueba2
+            ] 
+[2022-03-31T04:36:43.850Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T04:36:43.856Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T04:38:11.962Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T04:38:11.964Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T04:38:19.570Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T04:38:19.593Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T04:38:58.728Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T04:38:58.731Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T04:40:00.762Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T04:40:00.764Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T04:41:45.079Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T04:41:45.081Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T04:42:10.024Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T04:42:10.028Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T04:43:07.693Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T04:43:07.698Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T04:46:07.476Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T04:46:07.484Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T04:47:01.229Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T04:47:01.235Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T04:49:01.078Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T04:49:01.083Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T04:53:57.332Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T04:53:57.339Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T04:54:00.419Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T04:54:29.318Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T04:56:12.722Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T04:56:12.727Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T05:00:10.728Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T05:00:10.730Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T05:01:05.197Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T05:01:05.199Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T05:01:09.153Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T05:01:09.159Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T05:01:47.185Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T05:01:47.187Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T05:02:31.652Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T05:02:31.657Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T05:02:41.287Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T05:02:41.288Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T05:02:56.456Z warn 
+            SE ACTUALIZO EL PROYECTO CON EL ID: 1              
+              Datos Nuevos:
+                Nombre: undefined,
+                Descripcion: gggggg
+            ] 
+[2022-03-31T05:05:19.872Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T05:05:19.878Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T05:05:30.332Z warn 
+            SE ACTUALIZO EL PROYECTO CON EL ID: 1              
+              Datos Nuevos:
+                Nombre: Prueba 2,
+                Descripcion: Prueba2
+            ] 
+[2022-03-31T05:05:49.925Z warn 
+            SE ACTUALIZO EL PROYECTO CON EL ID: 1              
+              Datos Nuevos:
+                Nombre: Prueba 2,
+                Descripcion: Prueba2
+            ] 
+[2022-03-31T05:06:19.101Z warn 
+            SE ACTUALIZO EL PROYECTO CON EL ID: 1              
+              Datos Nuevos:
+                Nombre: Prueba 2,
+                Descripcion: Prueba2
+            ] 
+[2022-03-31T05:07:07.043Z warn 
+            SE ACTUALIZO EL PROYECTO CON EL ID: 1              
+              Datos Nuevos:
+                Nombre: Prueba 3,
+                Descripcion: Prueba 3
+            ] 
+[2022-03-31T05:07:19.092Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T05:07:19.097Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T05:07:42.545Z warn 
+            SE ACTUALIZO EL PROYECTO CON EL ID: 1              
+              Datos Nuevos:
+                Nombre: undefined,
+                Descripcion: Organizaci{on del trabajo
+            ] 
+[2022-03-31T05:08:13.683Z warn 
+            SE ACTUALIZO EL PROYECTO CON EL ID: 1              
+              Datos Nuevos:
+                Nombre: undefined,
+                Descripcion: Organizaci{on del trabajo
+            ] 
+[2022-03-31T05:10:08.226Z warn 
+            SE ACTUALIZO EL PROYECTO CON EL ID: 1              
+              Datos Nuevos:
+                Estado: 6,
+                Descripcion: Organizaci{on del trabajo
+            ] 
+[2022-03-31T05:10:31.191Z warn 
+            SE ACTUALIZO EL PROYECTO CON EL ID: 1              
+              Datos Nuevos:
+                Estado: 6,
+                Descripcion: Organización del trabajo
+            ] 
+[2022-03-31T05:11:20.142Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T05:11:20.144Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T05:11:46.043Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T05:11:46.045Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T05:12:09.115Z warn 
+            SE ACTUALIZO EL PROYECTO CON EL ID: 1              
+              Datos Nuevos:
+                Estado: 1,
+                Descripcion: Prueba del sistema gerencial
+            ] 
+[2022-03-31T05:12:10.051Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T05:12:10.056Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T05:12:25.440Z warn 
+            SE ACTUALIZO EL PROYECTO CON EL ID: 1              
+              Datos Nuevos:
+                Estado: 6,
+                Descripcion: Organización del trabajo
+            ] 
+[2022-03-31T05:12:26.007Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T05:12:26.011Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T05:12:48.295Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T05:13:11.610Z warn Se consultaron todos los proyectos vigentes] 
+[2022-03-31T05:14:09.582Z warn Se consultaron todos los proyectos vigentes] 
+[2022-03-31T05:14:12.107Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T05:14:12.108Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T05:14:15.909Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T05:14:17.527Z warn Se consultaron todos los proyectos vigentes] 
+[2022-03-31T05:14:26.120Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T05:14:28.231Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T05:14:28.233Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T05:14:45.572Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T05:14:45.573Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T05:21:42.458Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T05:21:42.460Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T05:22:49.918Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T05:22:49.922Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T05:24:13.304Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T05:24:13.306Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T05:26:31.203Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T05:26:31.205Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T05:28:16.398Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T05:28:16.399Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T05:28:32.876Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T05:28:32.878Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T05:28:55.711Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T05:28:55.713Z warn Se consultaron todos los estados disponibles] 
+[2022-03-31T05:29:14.673Z warn Se consultaron todos los proyectos personales] 
+[2022-03-31T05:29:14.677Z warn Se consultaron todos los estados disponibles] 
