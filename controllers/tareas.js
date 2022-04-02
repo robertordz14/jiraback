@@ -93,7 +93,7 @@ app.get("/tarea", async (req, res) => {
   try {
     let IDtareas = req.query.IDtareas;
     conn.query(
-      "SELECT TA.IDtareas,PO.proyectonombre,CONCAT(US.usuarionombres,'',US.usuarioapellidoP,'',US.usuarioapellidoM) AS 'usuario',TA.tareanombre,TA.tareadescripcion, ES.nombreestatus FROM tareas TA INNER JOIN proyecto PO ON PO.IDproyecto=TA.IDproyecto INNER JOIN usuario US ON US.IDusuario = TA.IDusuario INNER JOIN estado ES ON ES.IDestado=TA.IDestado WHERE TA.IDtareas=? ",
+      "SELECT * FROM tareas where IDtareas=?",
       [IDtareas],
       (err, rows) => {
         if (err) {
@@ -103,12 +103,19 @@ app.get("/tarea", async (req, res) => {
             msg: "Ocurrio un error.",
             err,
           });
-        } else {
+        } else if (rows.length > 0) {
           return res.status(200).send({
             estatus: "200",
             err: false,
             msg: "Tareas obtenidas con exito.",
-            rows,
+            rows:  rows[0],
+          });
+        }else {
+          // SI NO HAY ENCARGADOS DE PROYECTO SE MUESTRA EL MENSAJE
+          return res.status(200).send({
+            estatus: "200",
+            err: false,
+            msg: "Sin tareas.",
           });
         }
       }
@@ -124,6 +131,7 @@ app.get("/tarea", async (req, res) => {
     });
   }
 });
+   
 
 // RUTA PARA OBTENER TODAS LAS TAREAS QUE ESTEN CANCELADAS
 app.get("/cancel", async (req, res) => {
@@ -346,7 +354,7 @@ app.post("/", async (req, res) => {
 // RUTA PARA ACTUALIZAR UNA TAREA
 app.put("/", async (req, res) => {
   try {
-    let { IDusuario, tareanombre, tareadescripcion, tareafechaf } = req.body;
+    let { IDusuario, tareanombre, tareadescripcion, IDestado} = req.body;
     let IDtareas = req.query.IDtareas;
     conn.query(
       "SELECT * FROM tareas WHERE IDtareas=?",
@@ -369,12 +377,12 @@ app.put("/", async (req, res) => {
           if (tareadescripcion == "") {
             tareadescripcion = row[0].tareadescripcion;
           }
-          if (tareafechaf == "") {
-            tareafechaf = row[0].FechaEntrega;
+          if (IDestado == "") {
+            IDestado = row[0].IDestado;
           }
           conn.query(
-            "UPDATE tareas SET IDusuario=?, tareanombre=?, tareadescripcion=?, FechaEntrega=? WHERE IDtareas=?",
-            [IDusuario, tareanombre, tareadescripcion, tareafechaf, IDtareas],
+            "UPDATE tareas SET  tareadescripcion=?, IDestado=? WHERE IDtareas=?",
+            [tareadescripcion, IDestado, IDtareas],
             (err) => {
               if (err) {
                 return res.status(500).send({
@@ -386,15 +394,11 @@ app.put("/", async (req, res) => {
               } else {
                 logger.warn(` SE ACTUALIZO EL PROYECTO CON ID: ${IDtareas}
                 Datos Antiguos:
-                    Nombre: ${row[0].tareanombre},
-                    Descripcion: ${row[0].tareadescripcion},
-                    Encargado: ${row[0].IDusuario},    
-                    Fecha de Finalización: ${row[0].tareafechaf}                
+                    Descripcion: ${row[0].tareadescripcion}, 
+                    Estado: ${row[0].IDestado}                
                 Datos Nuevos:
-                    Nombre: ${tareanombre},
-                    Descripcion: ${tareadescripcion},
-                    Encargado: ${IDusuario},        
-                    Fecha de Finalización: ${tareafechaf},  
+                    Descripcion: ${tareadescripcion},      
+                    Estado: ${IDestado},  
                 `);
                 return res.status(200).send({
                   estatus: "200",

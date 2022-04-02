@@ -1,0 +1,181 @@
+[2022-04-02T03:40:38.009Z warn Inició sesión el usuario: Roberto con el correo roberto@gmail.com] 
+[2022-04-02T03:40:38.182Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T03:41:04.858Z warn Inició sesión el usuario: Juan Daniel con el correo juan@gmail.com] 
+[2022-04-02T03:41:15.693Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T03:41:39.956Z warn Inició sesión el usuario: Roberto con el correo roberto@gmail.com] 
+[2022-04-02T03:41:40.245Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T03:41:42.930Z warn Se consultaron todos los proyectos vigentes] 
+[2022-04-02T03:42:34.262Z warn Se consultaron todos los proyectos vigentes] 
+[2022-04-02T03:42:38.594Z warn Se consultaron todos los proyectos personales] 
+[2022-04-02T03:42:48.845Z warn Se consultaron todos los proyectos vigentes] 
+[2022-04-02T03:43:40.953Z warn Se consultaron todos los proyectos vigentes] 
+[2022-04-02T03:44:11.409Z info SE REGISTRO LA TAREA: Recoleccion de datos] 
+[2022-04-02T03:44:11.413Z info EL PROYECTO CON ID: 2 COMENZO SU DESARROLLO] 
+[2022-04-02T03:44:11.493Z warn Se consultaron todos los proyectos vigentes] 
+[2022-04-02T03:45:06.163Z warn Se consultaron todos los proyectos vigentes] 
+[2022-04-02T03:47:08.779Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T03:47:26.910Z warn Inició sesión el usuario: Miguel con el correo miguel@gmail.com] 
+[2022-04-02T03:47:51.053Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T03:48:09.342Z warn Inició sesión el usuario: Juan Daniel con el correo juan@gmail.com] 
+[2022-04-02T03:48:09.412Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T03:48:11.451Z warn Se consultaron todos los proyectos personales] 
+[2022-04-02T03:48:11.452Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T03:48:14.593Z warn Se consultaron todos los proyectos personales] 
+[2022-04-02T03:48:19.145Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T03:48:27.334Z warn Inició sesión el usuario: Roberto con el correo roberto@gmail.com] 
+[2022-04-02T03:48:27.403Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:01:20.368Z warn Se consultaron todos los proyectos personales] 
+[2022-04-02T04:01:20.378Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:02:05.578Z warn Se consultaron todos los proyectos vigentes] 
+[2022-04-02T04:02:09.631Z warn Se consultaron todos los proyectos personales] 
+[2022-04-02T04:02:09.634Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:04:25.384Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:04:25.387Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:04:41.737Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:04:41.739Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:05:19.594Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:05:19.598Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:05:34.482Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:05:37.591Z warn Se consultaron todos los proyectos vigentes] 
+[2022-04-02T04:05:39.155Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:05:39.157Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:06:40.673Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:06:40.676Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:06:44.780Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:06:44.782Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:10:33.608Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:10:33.615Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:10:45.030Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:10:45.033Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:11:03.749Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:11:03.753Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:11:14.837Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:11:14.839Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:13:08.625Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:13:08.629Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:15:56.827Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:15:56.861Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:16:37.402Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:16:37.405Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:17:43.236Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:17:43.239Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:19:54.437Z warn Se consultaron todos los proyectos personales] 
+[2022-04-02T04:19:54.442Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:20:28.292Z warn Se consultaron todos los proyectos personales] 
+[2022-04-02T04:20:28.296Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:20:32.162Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:20:39.854Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:20:39.855Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:21:51.663Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:21:51.665Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:22:41.853Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:22:41.855Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:24:59.325Z warn Se consultaron todos los proyectos personales] 
+[2022-04-02T04:24:59.327Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:25:21.589Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:25:21.591Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:26:52.299Z warn Se consultaron todos los proyectos personales] 
+[2022-04-02T04:26:52.301Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:27:02.353Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:27:02.355Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:31:03.460Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:31:03.465Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:33:05.971Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:33:05.978Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:34:17.612Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:34:17.615Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:36:55.710Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:36:55.717Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:37:02.446Z warn  SE ACTUALIZO EL PROYECTO CON ID: 2
+                Datos Antiguos:
+                    Nombre: Instalacion,
+                    Descripcion: Instalar NodeJS en todos los equipos, 
+                    Estado: 4                
+                Datos Nuevos:
+                    Nombre: undefined,
+                    Descripcion: Instalar NodeJS en todos los equipos,      
+                    Estado: 3,  
+                ] 
+[2022-04-02T04:37:03.029Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:37:03.032Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:37:36.808Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:37:36.811Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:38:36.167Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:38:36.175Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:38:42.646Z warn  SE ACTUALIZO EL PROYECTO CON ID: 2
+                Datos Antiguos:
+                    Descripcion: Instalar NodeJS en todos los equipos, 
+                    Estado: 3                
+                Datos Nuevos:
+                    Descripcion: Instalar NodeJS en todos los equipos,      
+                    Estado: 1,  
+                ] 
+[2022-04-02T04:38:43.250Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:38:43.253Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:39:52.971Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:40:25.406Z warn Se consultaron todos los proyectos vigentes] 
+[2022-04-02T04:40:29.090Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:40:29.093Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:40:45.666Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:40:45.669Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:41:05.220Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:41:15.738Z warn Se consultaron todos los proyectos vigentes] 
+[2022-04-02T04:41:25.495Z warn Se consultaron todos los proyectos vigentes] 
+[2022-04-02T04:41:29.102Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:41:29.104Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:41:42.981Z warn Se consultaron todos los proyectos personales] 
+[2022-04-02T04:41:42.984Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:41:50.408Z warn 
+            SE ACTUALIZO EL PROYECTO CON EL ID: 1              
+              Datos Nuevos:
+                Estado: 2,
+                Descripcion: 
+            ] 
+[2022-04-02T04:41:50.987Z warn Se consultaron todos los proyectos personales] 
+[2022-04-02T04:41:50.989Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:42:33.083Z warn Se consultaron todos los proyectos personales] 
+[2022-04-02T04:42:33.086Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:43:36.805Z warn Se consultaron todos los proyectos personales] 
+[2022-04-02T04:43:36.810Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:43:43.336Z warn 
+            SE ACTUALIZO EL PROYECTO CON EL ID: 1              
+              Datos Nuevos:
+                Estado: 1,
+                Descripcion: 
+            ] 
+[2022-04-02T04:43:44.251Z warn Se consultaron todos los proyectos personales] 
+[2022-04-02T04:43:44.255Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:44:07.549Z warn 
+            SE ACTUALIZO EL PROYECTO CON EL ID: 1              
+              Datos Nuevos:
+                Estado: 1,
+                Descripcion: Diseño preeliminares
+            ] 
+[2022-04-02T04:44:08.482Z warn Se consultaron todos los proyectos personales] 
+[2022-04-02T04:44:08.487Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:44:24.749Z warn Se consultaron todos los proyectos personales] 
+[2022-04-02T04:44:24.751Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:45:07.919Z warn Se consultaron todos los proyectos personales] 
+[2022-04-02T04:45:07.922Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:50:27.677Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:50:27.678Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:50:35.893Z warn  SE ACTUALIZO EL PROYECTO CON ID: 2
+                Datos Antiguos:
+                    Descripcion: Instalar NodeJS en todos los equipos, 
+                    Estado: 1                
+                Datos Nuevos:
+                    Descripcion: Instalar NodeJS en todos los equipos,      
+                    Estado: 4,  
+                ] 
+[2022-04-02T04:50:36.862Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:50:36.864Z warn Se consultaron todos los estados disponibles] 
+[2022-04-02T04:50:52.030Z warn  SE ACTUALIZO EL PROYECTO CON ID: 2
+                Datos Antiguos:
+                    Descripcion: Instalar NodeJS en todos los equipos, 
+                    Estado: 4                
+                Datos Nuevos:
+                    Descripcion: Instalar NodeJS en todos los equipos,      
+                    Estado: 2,  
+                ] 
+[2022-04-02T04:50:52.990Z warn Se consultaron todas las tareas personales] 
+[2022-04-02T04:50:52.992Z warn Se consultaron todos los estados disponibles] 

@@ -4,7 +4,7 @@ var connection = mysql.createConnection({
   host: "localhost",
   user: "root",
   password: "",
-  database: "araujo",
+  database: "jira",
   port: 3306,
 });
 
