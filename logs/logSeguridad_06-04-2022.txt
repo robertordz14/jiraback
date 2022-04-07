@@ -1,0 +1,90 @@
+[2022-04-06T22:32:55.614Z warn Inició sesión el usuario: Roberto con el correo roberto@gmail.com] 
+[2022-04-06T22:32:55.759Z warn Se consultaron todas las tareas personales] 
+[2022-04-06T22:34:56.835Z warn Se consultaron todas las tareas personales] 
+[2022-04-06T22:35:26.632Z warn Inició sesión el usuario: Juan Daniel con el correo juan@gmail.com] 
+[2022-04-06T22:35:26.702Z warn Se consultaron todas las tareas personales] 
+[2022-04-06T22:37:57.736Z warn Inició sesión el usuario: Roberto con el correo roberto@gmail.com] 
+[2022-04-06T22:37:57.837Z warn Se consultaron todas las tareas personales] 
+[2022-04-06T22:38:02.468Z warn Se consultaron todas las tareas personales] 
+[2022-04-06T22:38:12.943Z warn Se consultaron todos los estados disponibles] 
+[2022-04-06T22:38:12.997Z warn Se consultaron todas las tareas personales] 
+[2022-04-06T22:38:48.591Z warn  SE ACTUALIZO EL PROYECTO CON ID: 2
+                Datos Antiguos:
+                    Descripcion: Instalar NodeJS en todos los equipos, 
+                    Estado: 2                
+                Datos Nuevos:
+                    Descripcion: Instalar VSC en todos los equipos,      
+                    Estado: 1,  
+                ] 
+[2022-04-06T22:38:49.750Z warn Se consultaron todas las tareas personales] 
+[2022-04-06T22:38:49.755Z warn Se consultaron todos los estados disponibles] 
+[2022-04-06T22:43:30.881Z warn Se consultaron todas las tareas personales] 
+[2022-04-06T22:43:30.884Z warn Se consultaron todos los estados disponibles] 
+[2022-04-06T22:45:00.467Z warn Se consultaron todas las tareas personales] 
+[2022-04-06T22:45:00.469Z warn Se consultaron todos los estados disponibles] 
+[2022-04-06T23:02:58.303Z info Se registró un nuevo usuario con correo: juanpa@gmail.com] 
+[2022-04-06T23:04:42.176Z warn Se consultaron todos los proyectos vigentes] 
+[2022-04-06T23:04:49.311Z warn Se consultaron todos los proyectos personales] 
+[2022-04-06T23:06:10.650Z info Se creo el proyeco con nombre: Testeo] 
+[2022-04-06T23:06:15.055Z warn Se consultaron todos los proyectos vigentes] 
+[2022-04-06T23:06:36.039Z warn Se consultaron todos los proyectos personales] 
+[2022-04-06T23:06:36.040Z warn Se consultaron todos los estados disponibles] 
+[2022-04-06T23:06:43.965Z warn Se consultaron todos los proyectos vigentes] 
+[2022-04-06T23:06:48.774Z warn Se consultaron todos los proyectos personales] 
+[2022-04-06T23:06:48.777Z warn Se consultaron todos los estados disponibles] 
+[2022-04-06T23:07:06.349Z warn 
+            SE ACTUALIZO EL PROYECTO CON EL ID: 1              
+              Datos Nuevos:
+                Estado: 2,
+                Descripcion: Creacion de diseños preeliminares
+            ] 
+[2022-04-06T23:07:06.929Z warn Se consultaron todos los proyectos personales] 
+[2022-04-06T23:07:06.933Z warn Se consultaron todos los estados disponibles] 
+[2022-04-06T23:07:32.938Z warn Se consultaron todas las tareas personales] 
+[2022-04-06T23:07:35.357Z warn Se consultaron todos los proyectos vigentes] 
+[2022-04-06T23:08:10.763Z info SE REGISTRO LA TAREA: Casos de uso] 
+[2022-04-06T23:08:10.771Z info EL PROYECTO CON ID: 3 COMENZO SU DESARROLLO] 
+[2022-04-06T23:08:10.821Z warn Se consultaron todos los proyectos vigentes] 
+[2022-04-06T23:08:25.779Z warn Se consultaron todas las tareas personales] 
+[2022-04-06T23:08:25.782Z warn Se consultaron todos los estados disponibles] 
+[2022-04-06T23:08:32.756Z warn Se consultaron todas las tareas personales] 
+[2022-04-06T23:08:36.068Z warn Se consultaron todas las tareas personales] 
+[2022-04-06T23:08:36.069Z warn Se consultaron todos los estados disponibles] 
+[2022-04-06T23:08:58.336Z warn  SE ACTUALIZO EL PROYECTO CON ID: 4
+                Datos Antiguos:
+                    Descripcion: Realizar los casos de uso del flujo del sistema, 
+                    Estado: 1                
+                Datos Nuevos:
+                    Descripcion: Realizar los casos de uso del sistema,      
+                    Estado: 2,  
+                ] 
+[2022-04-06T23:08:58.937Z warn Se consultaron todas las tareas personales] 
+[2022-04-06T23:08:58.944Z warn Se consultaron todos los estados disponibles] 
+[2022-04-06T23:09:11.509Z warn Inició sesión el usuario: Juan Daniel con el correo juan@gmail.com] 
+[2022-04-06T23:09:11.565Z warn Se consultaron todas las tareas personales] 
+[2022-04-06T23:09:15.818Z warn Se consultaron todos los proyectos personales] 
+[2022-04-06T23:09:15.820Z warn Se consultaron todos los estados disponibles] 
+[2022-04-06T23:09:39.497Z warn 
+            SE ACTUALIZO EL PROYECTO CON EL ID: 3              
+              Datos Nuevos:
+                Estado: 4,
+                Descripcion: Pruebas de funcionalidad
+            ] 
+[2022-04-06T23:09:40.498Z warn Se consultaron todos los proyectos personales] 
+[2022-04-06T23:09:40.500Z warn Se consultaron todos los estados disponibles] 
+[2022-04-06T23:09:42.239Z warn Se consultaron todos los proyectos personales] 
+[2022-04-06T23:09:47.322Z warn Se consultaron todos los proyectos personales] 
+[2022-04-06T23:09:47.325Z warn Se consultaron todos los estados disponibles] 
+[2022-04-06T23:09:56.292Z warn 
+            SE ACTUALIZO EL PROYECTO CON EL ID: 3              
+              Datos Nuevos:
+                Estado: 4,
+                Descripcion: Prueba
+            ] 
+[2022-04-06T23:09:56.623Z warn Se consultaron todos los proyectos personales] 
+[2022-04-06T23:09:56.627Z warn Se consultaron todos los estados disponibles] 
+[2022-04-06T23:09:58.554Z warn Se consultaron todos los proyectos personales] 
+[2022-04-06T23:10:06.619Z warn Se consultaron todas las tareas personales] 
+[2022-04-06T23:10:06.621Z warn Se consultaron todos los estados disponibles] 
+[2022-04-06T23:10:12.978Z warn Se consultaron todos los proyectos personales] 
+[2022-04-06T23:10:12.981Z warn Se consultaron todos los estados disponibles] 

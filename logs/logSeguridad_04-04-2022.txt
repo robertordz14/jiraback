@@ -1,0 +1,6 @@
+[2022-04-04T21:30:11.282Z warn Inició sesión el usuario: Roberto con el correo roberto@gmail.com] 
+[2022-04-04T21:30:11.371Z warn Se consultaron todas las tareas personales] 
+[2022-04-04T21:30:32.699Z warn Inició sesión el usuario: Juan Daniel con el correo juan@gmail.com] 
+[2022-04-04T21:30:32.778Z warn Se consultaron todas las tareas personales] 
+[2022-04-04T21:30:45.558Z warn Inició sesión el usuario: Roberto con el correo roberto@gmail.com] 
+[2022-04-04T21:30:45.639Z warn Se consultaron todas las tareas personales] 
